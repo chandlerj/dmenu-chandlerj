@@ -35,3 +35,8 @@ static unsigned int lines      = 8;
 static const char worddelimiters[] = " ";
 
 static const int user_bh = 8;
+
+
+/* Size of the window border */
+static unsigned int border_width = 0;
+
